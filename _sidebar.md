@@ -2,6 +2,7 @@
 
   - 0
     - [0ssinsight](/templates/0ssinsight-widget.md)
+    - [suraweera-AGSS](/templates/suraweera-AGSS.md)
     - [0xabdulkhalid](/templates/0xabdulkhalid.md)
   - 1
     - [100rabhcsmc](/templates/100rabhcsmc.md)
