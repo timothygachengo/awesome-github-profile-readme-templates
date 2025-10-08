@@ -170,6 +170,7 @@
     - [gkhan205](/templates/gkhan205.md)
     - [guilyx](/templates/guilyx.md)
   - H
+    - [Hanseeka Dhingana](/templates/Hanseeka-Dhingana.md)
     - [halfrost](/templates/halfrost.md)
     - [harshkumarkhatri](/templates/harshkumarkhatri.md)
     - [hashfx](/templates/hashfx.md)
