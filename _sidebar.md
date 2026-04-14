@@ -222,6 +222,7 @@
     - [jewdev](/templates/jewdev.md)
     - [jlengstorf](/templates/jlengstorf.md)
     - [joetancy](/templates/joetancy.md)
+    - [JonasBlx](/templates/JonasBlx.md)
     - [Josuerv99](/templates/Josuerv99.md)
     - [JoykishanSharma](/templates/JoykishanSharma.md)
     - [jrmydix](/templates/jrmydix.md)
