@@ -293,6 +293,7 @@
     - [megha-ranjith](/templates/megha-ranjith.md)
   - N
     - [naisofly](/templates/naisofly.md)
+    - [Namnika](/templates/Namnika.md)
     - [nasreekar](/templates/nasreekar.md)
     - [NavodyaPasqual](/templates/NavodyaPasqual.md)
     - [neerajhariyale](/templates/neerajhariyale.md)
